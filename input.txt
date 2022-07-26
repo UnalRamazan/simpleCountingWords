@@ -1,0 +1,1000 @@
+amex
+ase
+asx
+biffex
+bse
+cboe
+cbt
+cme
+comex
+cse
+fox
+fse
+hkse
+ipe
+jse
+klce
+klse
+liffe
+lme
+lse
+mase
+mise
+mnse
+mose
+nasdaq
+nyce
+nycsce
+nymex
+nyse
+ose
+pse
+set
+simex
+sse
+stse
+tose
+tse
+wce
+zse
+adb-africa
+adb-asia
+aibd
+aid
+anrpc
+asean
+atpc
+bis
+cipec
+comecon
+ec
+eca
+ecafe
+ece
+ecla
+ecsc
+ecwa
+efta
+eib
+emcf
+escap
+euratom
+fao
+gatt
+gcc
+geplacea
+iaea
+iata
+icco
+ico-coffee
+ico-islam
+ida
+iea
+iisi
+ilo
+ilzsg
+imco
+imf
+inro
+irsg
+isa
+itc
+iwc-whale
+iwc-wheat
+iwcc
+iws
+iwto
+lafta
+mfa
+oapec
+oecd
+opec
+un
+unctad
+who
+worldbank
+abdel-hadi-kandeel
+alfonsin
+alhaji-abdul-ahmed
+alptemocin
+amato
+andersen
+andriessen
+aqazadeh
+aquino
+arafat
+babangida
+balladur
+bangemann
+barreto
+berge
+beteta
+blix
+boesky
+bond
+botha
+bouey
+braks
+bresser-pereira
+brodersohn
+brundtland
+camdessus
+carlsson
+caro
+castelo-branco
+castro
+cavaco-silva
+chaves
+chen-muhua
+chiang-ching-kuo
+chien
+chirac
+ciampi
+colombo
+conable
+concepcion
+corrigan
+cossiga
+crow
+dadzie
+dauster
+de-clercq
+de-kock
+de-korte
+de-la-madrid
+de-larosiere
+del-mazo
+delamuraz
+delors
+dementsev
+deng-xiaoping
+dennis
+dhillon
+dominguez
+douglas
+du-plessis
+duisenberg
+dunkel
+edelman
+enggaard
+eser
+evren
+eyskens
+feldt
+fernandez
+ferrari
+finnbogadottir
+friedman
+fujioka
+gaddafi
+gandhi
+garcia
+gava
+godeaux
+gonzalez
+gorbachev
+goria
+gostyev
+graf
+greenspan
+gromyko
+grosz
+guillaume
+halikias
+hamad-saud-al-sayyari
+hannibalsson
+haughey
+hawke
+he-kang
+herrington
+hillery
+hisham-nazer
+hoefner
+hoffmeyer
+holberg
+holkeri
+honecker
+hovmand
+howard-baker
+husak
+icahn
+james-baker
+james-miller
+jaruzelski
+jayme
+johnston
+kaminsky
+kaufman
+keating
+khameini
+khomeini
+kiechle
+king-fahd
+kohl
+koivisto
+kondo
+koren
+kullberg
+lacina
+lange
+languetin
+lawson
+lee-ta-hai
+lee-teng-hui
+leenanon
+leigh-pemberton
+leitz
+li-peng
+li-xiannian
+liikanen
+lubbers
+lukman
+lyng
+machinea
+macsharry
+malhotra
+mancera-aguayo
+martens
+martin
+masse
+maxwell
+maystadt
+medgyessy
+messner
+mikulic
+milliet
+mitterrand
+miyazawa
+mohammad-ibrahim-jaffrey-baluch
+mohammad-khan-junejo
+mohammad-yasin-khan-wattoo
+mohammed-ahmed-al-razaz
+mohammed-ali-abal-khail
+mohammed-salaheddin-hamid
+morales-bermudez
+mousavi
+moyle
+mubarak
+mulroney
+murdoch
+mustapha
+nakao
+nakasone
+nasko
+nemeth
+nobrega
+o-cofaigh
+o-kennedy
+oeien
+okongwu
+ongpin
+ortega
+ozal
+palsson
+pandolfi
+papandreou
+parkinson
+paye
+perez-de-cuellar
+petricioli
+pickens
+poehl
+pottakis
+prawiro
+qassemi
+rafnar
+rafsanjani
+reagan
+rezende
+riberio-cadilhe
+rich
+rikanovic
+rojas
+romero
+roumeliotis
+rowland
+rubio
+ruder
+ruding
+russell
+ryzhkov
+saberbein
+salinas
+samojlik
+santer
+saracoglu
+sarney
+sartzetakis
+sathe
+schlueter
+sedki
+simitis
+simonsen
+singhasaneh
+siregar
+skaanland
+soares
+solchaga
+sourrouille
+sprinkel
+steeg
+stich
+stoltenberg
+stoph
+strougal
+subroto
+suharto
+sumita
+suominen
+takeshita
+tamura
+tavares-moreia
+thatcher
+timar
+tinsulanonda
+tiwari
+toernaes
+toman
+tsovolas
+vancsa
+venkataraman
+vera-la-rosa
+verity
+villanyi
+vlatkovic
+volcker
+von-weizsaecker
+vranitzky
+waldheim
+wali
+walsh
+wang-bingqian
+wardhana
+wasim-aun-jaffrey
+wilson
+wise
+yeutter
+young
+yu-kuo-hua
+zak
+zhao-ziyang
+zheng-tuobin
+zia-ul-haq
+afghanistan
+albania 
+algeria 
+american-samoa
+andorra 
+angola  
+anguilla
+antigua 
+argentina  
+aruba
+australia  
+austria 
+bahamas 
+bahrain 
+bangladesh 
+barbados
+belgium 
+belize  
+benin
+bermuda 
+bhutan  
+bolivia 
+botswana
+brazil  
+british-virgin-islands
+brunei  
+bulgaria
+burkina-faso
+burma
+burundi 
+cameroon
+canada  
+cape-verde 
+cayman-islands
+central-african-republic
+chad 
+chile
+china
+colombia
+congo
+costa-rica 
+cuba 
+cyprus  
+czechoslovakia
+denmark
+djibouti
+dominica
+dominican-republic
+east-germany
+ecuador 
+egypt
+el-salvador
+equatorial-guinea
+ethiopia
+fiji 
+finland 
+france  
+french-guiana
+gabon
+gambia  
+ghana
+gibraltar  
+greece  
+grenada 
+guadeloupe 
+guam 
+guatemala  
+guinea  
+guinea-bissau
+guyana  
+haiti
+honduras
+hong-kong  
+hungary 
+iceland 
+india
+indonesia  
+iran 
+iraq 
+ireland 
+israel  
+italy
+ivory-coast
+jamaica 
+japan
+jordan  
+kampuchea  
+kenya
+kuwait  
+laos 
+lebanon 
+lesotho 
+liberia 
+libya
+liechtenstein
+luxembourg 
+macao
+madagascar 
+malawi  
+malaysia
+mali 
+malta
+martinique 
+mauritania 
+mauritius  
+mexico  
+monaco  
+morocco 
+mozambique 
+namibia 
+nepal
+netherlands
+netherlands-antilles
+new-caledonia
+new-zealand
+nicaragua  
+niger
+nigeria 
+north-korea
+norway  
+oman 
+pakistan
+panama  
+papua-new-guinea
+paraguay
+peru 
+philippines
+poland  
+portugal
+qatar
+romania 
+rwanda  
+saudi-arabia
+senegal 
+seychelles 
+sierra-leone
+singapore  
+somalia 
+south-africa
+south-korea
+spain
+sri-lanka  
+sudan
+suriname
+swaziland  
+sweden  
+switzerland
+syria
+taiwan  
+tanzania
+thailand
+togo 
+tonga
+trinidad-tobago
+tunisia 
+turkey  
+uae  
+uganda  
+uk
+uruguay 
+us-virgin-islands
+usa
+ussr
+vanuatu 
+vatican 
+venezuela  
+vietnam 
+west-germany
+western-samoa
+yemen-arab-republic
+yemen-demo-republic
+yugoslavia 
+zaire
+zambia  
+zimbabwe
+acq
+alum
+austdlr
+austral
+barley
+bfr
+bop
+can
+carcass
+castor-meal
+castor-oil
+castorseed
+citruspulp
+cocoa
+coconut
+coconut-oil
+coffee
+copper
+copra-cake
+corn
+corn-oil
+cornglutenfeed
+cotton 
+cotton-meal
+cotton-oil
+cottonseed
+cpi
+cpu
+crude
+cruzado
+dfl
+dkr
+dlr
+dmk
+drachma
+earn
+escudo
+f-cattle
+ffr
+fishmeal
+flaxseed
+fuel
+gas
+gnp
+gold
+grain
+groundnut
+groundnut-meal
+groundnut-oil
+heat
+hk
+hog
+housing
+income
+instal-debt
+interest
+inventories
+ipi
+iron-steel
+jet
+jobs
+l-cattle
+lead
+lei
+lin-meal
+lin-oil
+linseed
+lit
+livestock
+lumber
+lupin
+meal-feed
+mexpeso
+money-fx
+money-supply
+naphtha     
+nat-gas
+nickel
+nkr
+nzdlr
+oat
+oilseed
+orange
+palladium
+palm-meal
+palm-oil
+palmkernel
+peseta
+pet-chem
+platinum
+plywood
+pork-belly
+potato
+propane
+rand
+rape-meal
+rape-oil
+rapeseed
+red-bean
+reserves
+retail
+rice
+ringgit
+rubber
+rupiah
+rye
+saudriyal
+sfr
+ship
+silk
+silver
+singdlr
+skr
+sorghum
+soy-meal
+soy-oil
+soybean
+stg
+strategic-metal
+sugar
+sun-meal
+sun-oil
+sunseed
+tapioca
+tea
+tin
+trade
+tung
+tung-oil
+veg-oil
+wheat
+wool
+wpi
+yen
+zinc
+
+Some notes on the Reuters Categories
+David D. Lewis
+3-Dec-96
+
+  The letter W. Bruce Croft received from Phil Hayes (March 9, 1990)
+gave a list of 135 TOPICS categories, which were used in HAYES89.  I
+reproduce this list below.
+
+  The email message David D. Lewis received (Nov. 26, 1990) from Phil
+Hayes gave lists (which I reproduce below) for categories in these
+fields:
+
+                            number stated      number actually 
+                            at top of list        on list
+  ORGS                           56                  56
+  EXCHANGES                      39                  39 
+  PLACES (i.e. COUNTRIES)       176                 175
+  PEOPLE                        269                 267
+
+    Total                       540                 537
+    Total stated in IEEE paper: 539 
+
+  The total 674 categories mentioned in HAYES90b is the sum of 135 and
+539.  So the published numbers are a little off. For the purposes of
+Reuters-21578 we have taken as ground truth the actual lists of
+category names, and the number of items on those lists.
+  
+*********************************************************************
+
+****Subject Codes (135) 
+
+Money/Foreign Exchange (MONEY-FX)
+Shipping (SHIP)
+Interest Rates (INTEREST)
+
+**Economic Indicator Codes (16)
+
+Balance of Payments (BOP)
+Trade (TRADE)
+Consumer Price Index (CPI)
+Wholesale Price Index (WPI)
+Unemployment (JOBS)
+Industrial Production Index (IPI)
+Capacity Utilisation (CPU)
+Gross National/Domestic Product (GNP)
+Money Supply (MONEY-SUPPLY)
+Reserves (RESERVES)
+Leading Economic Indicators (LEI)
+Housing Starts (HOUSING)
+Personal Income (INCOME)
+Inventories (INVENTORIES)
+Instalment Debt/Consumer Credit (INSTAL-DEBT)
+Retail Sales (RETAIL)
+
+**Currency Codes (27)
+
+U.S. Dollar (DLR)
+Australian Dollar (AUSTDLR)
+Hong Kong Dollar (HK)
+Singapore Dollar (SINGDLR)
+New Zealand Dollar (NZDLR)
+Canadian Dollar (CAN)
+Sterling (STG)
+D-Mark (DMK)
+Japanese Yen (YEN)
+Swiss Franc (SFR)
+French Franc (FFR)
+Belgian Franc (BFR)
+Netherlands Guilder/Florin (DFL)
+Italian Lira (LIT)
+Danish Krone/Crown (DKR)
+Norwegian Krone/Crown (NKR)
+Swedish Krona/Crown (SKR)
+Mexican Peso (MEXPESO)
+Brazilian Cruzado (CRUZADO)
+Argentine Austral (AUSTRAL)
+Saudi Arabian Riyal (SAUDRIYAL)
+South African Rand (RAND)
+Indonesian Rupiah (RUPIAH)
+Malaysian Ringitt (RINGGIT)
+Portuguese Escudo (ESCUDO)
+Spanish Peseta (PESETA)
+Greek Drachma (DRACHMA)
+
+**Corporate Codes (2)
+
+Mergers/Acquisitions (ACQ)
+Earnings and Earnings Forecasts (EARN)
+
+**Commodity Codes (78)
+
+ALUM
+BARLEY
+CARCASS
+CASTOR-MEAL
+CASTOR-OIL
+CASTORSEED
+CITRUSPULP
+COCOA
+COCONUT-OIL
+COCONUT
+COFFEE
+COPPER
+COPRA-CAKE
+CORN-OIL
+CORN
+CORNGLUTENFEED
+COTTON 
+COTTON-MEAL
+COTTON-OIL
+COTTONSEED
+F-CATTLE
+FISHMEAL
+FLAXSEED
+GOLD
+GRAIN
+GROUNDNUT
+GROUNDNUT-MEAL
+GROUNDNUT-OIL
+IRON-STEEL
+LEAD
+LIN-MEAL
+LIN-OIL
+LINSEED
+LIVESTOCK
+L-CATTLE
+HOG
+LUMBER
+LUPIN
+MEAL-FEED
+NICKEL
+OAT
+OILSEED
+ORANGE
+PALLADIUM
+PALM-MEAL
+PALM-OIL
+PALMKERNEL
+PLATINUM
+PLYWOOD
+PORK-BELLY
+POTATO
+RAPE-MEAL
+RAPE-OIL
+RAPESEED
+RED-BEAN
+RICE
+RUBBER
+RYE
+SILK
+SILVER
+SORGHUM
+SOY-MEAL
+SOY-OIL
+SOYBEAN
+STRATEGIC-METAL
+SUGAR
+SUN-MEAL
+SUN-OIL
+SUNSEED
+TAPIOCA
+TEA
+TIN
+TUNG-OIL
+TUNG
+VEG-OIL
+WHEAT
+WOOL
+ZINC
+
+**Energy Codes (9)
+
+Crude Oil (CRUDE)
+Heating Oil/Gas Oil (HEAT)
+Fuel Oil (FUEL)
+Gasoline (GAS)
+Natural Gas (NAT-GAS)
+Petro-Chemicals (PET-CHEM)
+Propane (PROPANE)
+Jet and Kerosene (JET)
+Naphtha (NAPHTHA)
+
+________________________________________________________________
+
+@heading[Organization Codes (56)]
+@begin[format]
+African Development Bank (ADB-AFRICA)@*
+Agency for International Development  (AID)@*
+Asian Development Bank  (ADB-ASIA)@*
+Association of International Bond Dealers (AIBD)@*
+Association of Natural Rubber Producing Countries (ANRPC)@*
+Association of South East Asian Nations (ASEAN)@*
+Association of Tin Producing Countries (ATPC)@*
+Bank for International Settlements (BIS)@*
+Council for Mutual Economic Assistance (COMECON)@*
+Economic Commission for Africa (ECA)@*
+Economic Commission for Asia and the Far East (ECAFE)@*
+Economic Commission for Europe (ECE)@*
+Economic Commission for Latin America and The Caribbean (ECLA)@*
+Economic Commission for West Asia (ECWA)@*
+Economic and Social Commission for Asia and the Pacific (ESCAP)@*
+European Atomic Energy Community (EURATOM)@*
+European Coal and Steel Community (ECSC)@*
+European Community (EC)@*
+European Free Trade Association (EFTA)@*
+European Investment Bank (EIB)@*
+European Monetary Cooperation Fund (EMCF)@*
+Food and Agriculture Organisation (FAO)@*
+General Agreement on Tariffs and Trade (GATT)@*
+Grupo de Paises Latinoamericanos y del Caribe Exportadores de Azucar
+[Group of Latin American and Caribbean Sugar Exporting Countries]
+(GEPLACEA)@*
+Gulf Cooperation Council (GCC)@*
+Inter-Government Council of Copper Exporting Countries (CIPEC)@*
+Inter-Governmental Maritime Consultative Organisation (IMCO)@*
+International Air Transport Association (IATA)@*
+International Atomic Energy Authority (IAEA)@*
+International Bank for Reconstruction and Development (WORLDBANK)@*
+International Cocoa Organisation (ICCO)@*
+International Coffee Organisation (ICO-COFFEE)@*
+International Development Association (IDA)@*
+International Energy Agency (IEA)@*
+International Iron and Steel Institute (IISI)@*
+International Labour Organisation (ILO)@*
+International Lead and Zinc Study Group (ILZSG)@*
+International Monetary Fund (IMF)@*
+International Natural Rubber Organisation (INRO)@*
+International Rubber Study Group (IRSG)@*
+International Sugar Agreement (ISA)@*
+International Tin Council (ITC)@*
+International Whaling Commission (IWC-WHALE)@*
+International Wheat Council (IWC-WHEAT)@*
+International Wool Secretariat (IWS)@*
+International Wool Textile Organisation (IWTO)@*
+International Wrought Copper Council (IWCC)@*
+Islamic Conference Organisation (ICO-ISLAM)@*
+Latin American Free Trade Association (LAFTA)@*
+Multi-Fibres Arrangement (MFA)@*
+Organisation for Economic Cooperation and Development (OECD)@*
+Organisation of Arab Petroleum Exporting Countries (OAPEC)@*
+Organisation of Petroleum Exporting Countries (OPEC)@*
+United Nations (UN)@*
+United Nations Conference on Trade and Development (UNCTAD)@*
+World Health Organisation (WHO)@*
+@end[format]
+@blankspace[3 lines]
+________________________________________________________________
+@heading[Exchange Codes (39)]
+@begin[format]
+American Stock Exchange (AMEX)@*
+Amsterdam Stock Exchange/Bourse (ASE)@*
+Australian Stock Exchange (ASX)@*
+Baltic International Freight Futures Exchange (BIFFEX)@*
+Brussels Stock Exchange/Bourse (BSE)@*
+Chicago Board of Trade (CBT)@*
+Chicago Board of Trade Options Exchange (CBOE)@*
+Chicago Mercantile Exchange (CME)@*
+Copenhagen Stock Exchange/Bourse (CSE)@*
+Frankfurt Stock Exchange/Bourse (FSE)@*
+Hong Kong Stock Exchange (HKSE)@*
+International Petroleum Exchange (IPE)@*
+Johannesburg Stock Exchange (JSE)@*
+Kuala Lumpur Commodity Exchange (KLCE)@*
+Kuala Lumpur Stock Exchange (KLSE)@*
+London Futures and Options Exchange (FOX)@*
+London International Financial Futures Exchange (LIFFE)@*
+London Metal Exchange (LME)@*
+London Stock Exchange (LSE)@*
+Madrid Stock Exchange (MASE)@*
+Manila Stock Exchange (MNSE)@*
+Milan Stock Exchange/Bourse (MISE)@*
+Montreal Stock Exchange (MOSE)@*
+National Association of Securities Dealers Automated Quotation System (NASDAQ)@*
+New York Coffee, Sugar and Cocoa Exchange (NYCSCE)@*
+New York Commodity Exchange (COMEX)@*
+New York Cotton Exchange (NYCE)@*
+New York Mercantile Exchange (NYMEX)@*
+New York Stock Exchange (NYSE)@*
+Oslo Stock Exchange/Bourse (OSE)@*
+Paris Stock Exchange/Bourse (PSE)@*
+Securities Exchange of Thailand (SET)@*
+Singapore International Monetary Exchange (SIMEX)@*
+Singapore Stock Exchange (SSE)@*
+Stockholm Stock Exchange/Bourse (STSE)@*
+Tokyo Stock Exchange (TSE)@*
+Toronto Stock Exchange (TOSE)@*
+Winnipeg Commodity Exchange (WCE)@*
+Zurich Stock Exchange/Bourse (ZSE)@*
+@end[format]
+@blankspace[3 lines]
+________________________________________________________________
+@heading[Country Codes (176)]
+@begin[format]
+AFGHANISTAN@*
+ALBANIA @*
+ALGERIA @*
+AMERICAN-SAMOA@*
+ANDORRA @*
+ANGOLA  @*
+ANGUILLA@*
+ANTIGUA @*
+ARGENTINA  @*
+ARUBA@*
+AUSTRALIA  @*
+AUSTRIA @*
+BAHAMAS @*
+BAHRAIN @*
+BANGLADESH @*
+BARBADOS@*
+BELGIUM @*
+BELIZE  @*
+BENIN@*
+BERMUDA @*
+BHUTAN  @*
+BOLIVIA @*
+BOTSWANA@*
+BRAZIL  @*
+BRITISH-VIRGIN-ISLANDS@*
+BRUNEI  @*
+BULGARIA@*
+BURKINA-FASO@*
+BURMA@*
+BURUNDI @*
+CAMEROON@*
+CANADA  @*
+CAPE-VERDE @*
+CAYMAN-ISLANDS@*
